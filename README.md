@@ -1,3 +1,14 @@
+***
+## Referencia 🔥
+
+- **Este projeto é um fork: https://github.com/datastacktv/data-engineer-roadmap** 
+
+> O desenho é semelhante ao do projeto original
+> 
+> Os textos foram traduzidos para o português
+
+***
+
 
 ![Modern Data Engineer Roadmap 2021](img/title1.png)
 
