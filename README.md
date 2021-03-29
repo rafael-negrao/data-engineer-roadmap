@@ -1,5 +1,5 @@
 
-![Modern Data Engineer Roadmap 2021](img/title.png)
+![Modern Data Engineer Roadmap 2021](img/title1.png)
 
 > Roteiro para se tornar um engenheiro de dados em 2021
 
@@ -17,7 +17,7 @@ Este roteiro visa fornecer uma **imagem completa do cenário moderno da engenhar
 
 [comment]: <> (> [Text version for visually impaired users]&#40;text/roadmap.md&#41;)
 
-![Data Engineer Roadmap](img/roadmap.png)
+![Data Engineer Roadmap](img/roadmap1.png)
 
 
 ## Contribuições são bem-vindas 💜
