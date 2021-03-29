@@ -1,47 +1,34 @@
 
 ![Modern Data Engineer Roadmap 2021](img/title.png)
 
-> Roadmap to becoming a data engineer in 2021
+> Roteiro para se tornar um engenheiro de dados em 2021
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/datastacktv)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000)](http://youtube.com/c/datastacktv)
-[![Website](https://img.shields.io/badge/-Website-565CD8)](https://datastack.tv/)
-[![Jobs](https://img.shields.io/badge/-Jobs-ffdf4b)](https://datastackjobs.com/)
-
-This roadmap aims to give a **complete picture of the modern data engineering landscape** and serve as a **study guide** for aspiring data engineers.
+Este roteiro visa fornecer uma **imagem completa do cenário moderno da engenharia de dados** e servir como um **guia de estudo** para aspirantes a engenheiros de dados.
 
 ***
 
-<h3 align="center"><strong>Note to beginners</strong></h3>
+<h3 align="center"><strong>Nota para Iniciantes</strong></h3>
 
-> Beginners shouldn’t feel overwhelmed by the vast number of tools and frameworks listed here. A typical data engineer would master a subset of these tools throughout several years depending on his/her company and career choices.
+> Os iniciantes não devem se sentir oprimidos pelo vasto número de ferramentas e estruturas listadas aqui. Um engenheiro de dados típico dominaria um subconjunto dessas ferramentas ao longo de vários anos, dependendo de sua empresa e opções de carreira.
 
 ***
 
-🔥  We just launched [**Data Stack Jobs**](https://datastackjobs.com/) — a clean and simple job site for Data Stack Engineers!
+[comment]: <> (🔥  We just launched [**Data Stack Jobs**]&#40;https://datastackjobs.com/&#41; — a clean and simple job site for Data Stack Engineers!)
 
-> [Text version for visually impaired users](text/roadmap.md)
+[comment]: <> (> [Text version for visually impaired users]&#40;text/roadmap.md&#41;)
 
 ![Data Engineer Roadmap](img/roadmap.png)
 
-## Nice to have 😎
 
-> [Text version for visually impaired users](text/extras.md)
+## Contribuições são bem-vindas 💜
 
-![Data Engineer Roadmap Extras](img/extras.png)
-
-## Contributions are welcome 💜
-
-Please raise an issue to discuss your suggestions or open a Pull Request to request improvements.
+Levante um problema para discutir suas sugestões ou abra um `Pull Request` para solicitar melhorias.
 
 ## Reviewers 🔎
 
-Huge thank you to [@whydidithavetobebugs](https://github.com/whydidithavetobebugs), [@sawidis](https://github.com/sawidis), [@marclamberti](https://github.com/marclamberti) and [@mpyeager](https://github.com/mpyeager) for reviewing this roadmap.
+[comment]: <> (Huge thank you to [@whydidithavetobebugs]&#40;https://github.com/whydidithavetobebugs&#41;, [@sawidis]&#40;https://github.com/sawidis&#41;, [@marclamberti]&#40;https://github.com/marclamberti&#41; and [@mpyeager]&#40;https://github.com/mpyeager&#41; for reviewing this roadmap.)
 
-## About us 👋🏼
 
-[datastack.tv](https://datastack.tv/) is the learning platform for the modern data stack. We create concise screencast video tutorials for data engineers. [**Browse our courses here!**](https://datastack.tv/courses.html)
+## Licença 🗞
 
-## License 🗞
-
-> Copyright © 2021 Alexandra Abbas — <hello@datastack.tv>
+> Copyright © 2021 
