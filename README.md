@@ -28,7 +28,7 @@ Este roteiro visa fornecer uma **imagem completa do cenário moderno da engenhar
 
 [comment]: <> (> [Text version for visually impaired users]&#40;text/roadmap.md&#41;)
 
-![Data Engineer Roadmap](img/roadmap2.png)
+![Data Engineer Roadmap](img/roadmap3.png)
 
 
 ## Contribuições são bem-vindas 💜
