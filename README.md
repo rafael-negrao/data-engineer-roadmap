@@ -37,8 +37,7 @@ Levante um problema para discutir suas sugestões ou abra um `Pull Request` para
 
 ## Reviewers 🔎
 
-[comment]: <> (Huge thank you to [@whydidithavetobebugs]&#40;https://github.com/whydidithavetobebugs&#41;, [@sawidis]&#40;https://github.com/sawidis&#41;, [@marclamberti]&#40;https://github.com/marclamberti&#41; and [@mpyeager]&#40;https://github.com/mpyeager&#41; for reviewing this roadmap.)
-
+Muito obrigado para [@dancarv](https://github.com/dancarv) e [@schmidt-samuel](https://github.com/schmidt-samuel) por revisar este roteiro.
 
 ## Licença 🗞
 
